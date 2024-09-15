@@ -1,0 +1,23 @@
+.navbar
+{
+    background-color: rgb(100, 200, 100); 
+    padding-left: 10px;
+}
+
+.navbar > div li
+{
+    padding-left: 50px;
+
+}
+
+.navbar-custom, .navbar-text,
+.navbar-brand,  .dropdown-menu
+{
+    background-color: rgb(100, 200, 100); 
+}
+
+.navbar-nav li a:hover
+{
+    background-color: rgb(150, 200, 150); 
+
+}
