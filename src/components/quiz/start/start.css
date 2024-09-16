@@ -1,0 +1,31 @@
+
+.select-list li
+{
+    margin: 0px 25px 25px 0px;
+}
+
+.select-list li:hover, .select-list li:active
+{
+    background-color: rgb(4, 174, 27);
+}
+
+.userinputpanel
+{
+    margin-top: 100px;
+}
+
+.category-item
+{
+    background-color: rgb(160, 193, 160);
+}
+
+.category-item-active
+{
+    background-color: rgb(4, 174, 27);
+}
+
+.nopadding
+{
+    padding: 0 !important; 
+    margin: 0 !important; 
+}
